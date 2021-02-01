@@ -1,5 +1,5 @@
 # Support-Vector-Machine
-Implementing Support Vector Machine from scratch
+Implementing Support Vector Machine (SVM) from scratch
 
 # Introduction
 
